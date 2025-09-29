@@ -1,6 +1,6 @@
 ---
 
-title: "Exploration des données sur les manchots"
+title: "Exploration données sur les manchots"
 author: "Océane Picot" 
 bibliography: references.bib
 execute: 
